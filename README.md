@@ -1,4 +1,4 @@
-# Insurance Claim Data Analysis
+# Insurance Data Insights and Prediction
 
 ## Overview
 
@@ -56,11 +56,13 @@ The dataset includes 1,000,098 rows and 52 columns, with details structured as f
 ## Project Structure
 
 ```plaintext
-.
+
 ├── data/                   # Contains raw and cleaned datasets
 ├── notebooks/              # Jupyter notebooks for EDA and analysis
 ├── README.md               # Project documentation
 └── requirements.txt        # Dependencies for the project
+
+```
 
 ## Installation and Usage
 
